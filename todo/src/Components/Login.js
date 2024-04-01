@@ -7,7 +7,7 @@ const Login = ()=>{
             <h1>Login</h1>
             <div id = "inputs" className = "inputs">
                 <input placeholder="Enter Your Name" className="nameInput" type="text"></input>
-                <input placeholder="Enter Your PassWord" className="namePassword" type="password"></input>
+                <input placeholder="Enter Your PassWord" className="passwordInputs" type="password"></input>
             </div>
             <div className="button">
                 <button className="login">Login</button>
